@@ -9,7 +9,7 @@
     "bootstrap": "^4.4.1",
     "convert-csv-to-array": "^1.0.3",
     "date-fns": "^2.11.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-map-gl": "^5.2.3",
